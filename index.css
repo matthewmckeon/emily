@@ -1,0 +1,16 @@
+body {
+    text-align: center;
+    padding-left: 30%;
+    padding-right: 30%;
+    line-height: 200%;
+    font-size: 120%;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgb(231, 185, 245);
+}
+
+input[type="submit"]{
+    background: #fff;
+    border: 1px solid #000;
+    border-radius: 6px;
+    font-size: large;
+  }
